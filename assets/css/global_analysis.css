@@ -1,0 +1,10 @@
+.graph-container {
+    width: 475px;
+    height: 475px;
+}
+
+@media (max-width: 767px) {
+    .graph-container {
+        width: 45vh;
+        height: 45vh;
+    }
