@@ -51,7 +51,7 @@ The Mental Health App is an interactive platform that provides a comprehensive a
 - **Survey Analysis:** Insights from global mental health surveys, focusing on public perception and societal impact.
 
 ## Installation
-1. Clone the repository: `git clone `
+1. Clone the repository: `git clone https://github.com/lemarouane/Mental-Health-WorldWide`
 2. Navigate to the app directory: `cd mental-health-app`
 3. Install required packages: `pip install -r requirements.txt`
 4. Run the app: `python app.py`
